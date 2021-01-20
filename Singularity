@@ -70,4 +70,4 @@ rpm -i pdftk-2.02-1.*.rpm
 %environment
   export IMAGE_NAME="pdftk"
 %runscript
-#
+###
